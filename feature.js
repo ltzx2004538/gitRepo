@@ -1,3 +1,3 @@
-for (let i = 0; i < feature2.length; i++) {
-	text += feature2[i] + "<br>";
+for (let i = 0; i < feature.length; i++) {
+	text += feature[i] + "<br>";
   }
